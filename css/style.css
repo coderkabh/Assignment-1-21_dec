@@ -1,0 +1,23 @@
+.intro-para
+{
+    margin: 10px 0 0 10px;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#section-heading{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+
+#intro-heading{
+    margin: 10px 0 0 10px;
+}
+
+#intro-profile-picture{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin: 5px 15px;
+    border-radius: 10px;
+}
+
